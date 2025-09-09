@@ -107,12 +107,12 @@ Olá! Estruture esta tabela markdown de forma otimizada e adequada para melhor v
     </td>
     <td>
       <h3>Redis</h3>
-      <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+      <a href="https://www.canva.com/design/DAGx24qhTFQ/qRe-VOojMorHm6SfDu57Hw/edit?utm_content=DAGx24qhTFQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://miro.medium.com/0*100ZoqoM6WcCaw9c.png" width="250px"></a>
       <h3>Equipe:</h3>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
-      <li><a href="LINKEDIN">NOME</a></li>
+      <li><a href="LINKEDIN">Allana Patricia</a></li>
+      <li><a href="LINKEDIN">Adely Braz</a></li>
+      <li><a href="LINKEDIN">Luís Bezerra</a></li>
+      <li><a href="LINKEDIN">Estevão</a></li>
     </td>
   </tr>
   <tr>
